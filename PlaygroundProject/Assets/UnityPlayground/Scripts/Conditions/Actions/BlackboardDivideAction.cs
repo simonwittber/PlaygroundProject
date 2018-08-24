@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[AddComponentMenu("Playground/Blackboard/Divide")]
+[AddComponentMenu("Playground/Actions/Blackboard/Divide")]
 public class BlackboardDivideAction : BlackboardAction
 {
     protected override void PerformAction()

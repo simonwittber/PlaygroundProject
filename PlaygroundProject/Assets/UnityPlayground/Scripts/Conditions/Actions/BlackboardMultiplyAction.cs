@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[AddComponentMenu("Playground/Blackboard/Multiply")]
+[AddComponentMenu("Playground/Actions/Blackboard/Multiply")]
 public class BlackboardMultiplyAction : BlackboardAction
 {
     protected override void PerformAction()

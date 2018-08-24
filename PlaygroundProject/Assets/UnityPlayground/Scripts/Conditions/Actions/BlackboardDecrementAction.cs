@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[AddComponentMenu("Playground/Blackboard/Decrement")]
+[AddComponentMenu("Playground/Actions/Blackboard/Decrement")]
 public class BlackboardDecrementAction : BlackboardAction
 {
     protected override void PerformAction()
